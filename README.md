@@ -1,6 +1,7 @@
 <p align="center">
-  <github-header-banner (11).png/>
+  <img src="github-header-banner (11).png" alt="Yashi Gupta - Data Engineer | Automation & Analytics Enthusiast" />
 </p>
+
 
 <h3 align="left"> Hi, I'm Yashi Gupta 👋 </h3>
 
