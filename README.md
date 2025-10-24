@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-header-banner (9).png" alt="Piyush Pachare - Data Engineer & Analytics Developer"/>
+  <github-header-banner (11).png/>
 </p>
 
 <h3 align="left"> Hi, I'm Yashi Gupta 👋 </h3>
