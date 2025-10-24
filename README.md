@@ -39,6 +39,7 @@ I thrive at the intersection of **data, automation, and AI**, building tools tha
 
 ### 🛠 Tech Stack & Tools
 
+
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=jXuZmZPUKCPS&format=png&color=000000" alt="Python" width="60" height="60" style="margin:10 px"/>
   <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" alt="PySpark" width="60" height="60" style="margin:10 px"/>
@@ -59,7 +60,10 @@ I thrive at the intersection of **data, automation, and AI**, building tools tha
   <img src="https://www.solzit.com/wp-content/uploads/2024/09/Microsoft-Dynamics-365-logo.png" alt="Dynamics 365" width="100" height="100" style="margin:10 px"/>
   <img src="https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/icons/PP-Hero_Icon_PowerPages.svg" alt="Power Pages" width="60" height="60" style="margin:10 px"/>
   <img src="https://trillium.net/media/no0jrmol/dataverse_logo.png" alt="Dataverse" width="60" height="60" style="margin:10 px"/>
+  
+
 </p>
+
 
 
 
